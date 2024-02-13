@@ -2,6 +2,9 @@
 
 ![Demo App](/frontend/public/demo.png)
 
+## Demo
+[Demo App](https://chatapp-7zu7.onrender.com/)
+
 Some Features:
 
 -   🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
